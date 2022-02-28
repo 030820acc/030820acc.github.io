@@ -50,6 +50,7 @@
 
 	.facepic{
 		border-radius: 100%;
+		width: 200px;
 	}
 
 	.contactlinks{
@@ -1712,7 +1713,7 @@
 		cursor: pointer;
 		text-decoration: none;
 		outline: 0;
-		padding: 1em 2em 1em 2em;
+		padding: .5em 1em .5em 1em;
 		text-align: center;
 		border-radius: 3em;
 		font-weight: 400;
@@ -1859,7 +1860,7 @@
 			.box.style2 header {
 				display: inline-block;
 				background: #fff;
-				padding: 2em 3em 2em 3em;
+				padding: 1em 2em 1em 2em;
 				margin: 0;
 			}
 
@@ -1904,7 +1905,7 @@
 
 		.box.style3 {
 			background: #fff;
-			padding: 3em;
+			padding: 2em;
 		}
 
 			.box.style3 header {
